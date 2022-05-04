@@ -1,3 +1,4 @@
 apiTest/db.cnf
 .idea
 .vscode
+apiTest/__pycache__/
